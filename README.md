@@ -1,4 +1,4 @@
-<h1 align="center">Happy to be here :)</h1>
+<h1 align="center">ChartGPU • Data Visualization • Hopeless Charts Addict </h1>
 
 ###
 
