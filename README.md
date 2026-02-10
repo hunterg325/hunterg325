@@ -28,12 +28,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hunterg325/hunterg325/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hunterg325/hunterg325/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hunterg325/hunterg325/output/pacman-contribution-graph.svg">
-</picture>
 
-_generated with [hunterg325/pacman-contribution-graph](https://hunterg325.github.io/pacman-contribution-graph/)_
+<div align="center">
+  <img src="pacman-contribution.svg" width="100%" alt="Pacman contribution graph" />
+</div>
+
+
+
 
 ###
