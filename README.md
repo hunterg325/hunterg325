@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="25" alt="JavaScript logo"  />
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" alt="Node JS logo"  />
   <a href="https://github.com/ChartGPU/ChartGPU/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ChartGPU Creator&logo=github&label=&color=0c1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Chart GPU logo" /></a>
+    <img src="https://img.shields.io/badge/ChartGPU Creator-darkblue?style=for-the-badge&logo=github&logoColor=black" height="25" alt="Chart GPU logo" /></a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/huntergemmer/" target="_blank">
