@@ -1,25 +1,25 @@
-<h1 align="center">ChartGPU • Data Visualization • Hopeless Charts Addict </h1>
+
+<h2 align="center" style="margin-bottom:10px;">ChartGPU • Data Visualization • Hopeless Charts Addict</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+<img src="https://img.shields.io/badge/WebGPU-005A9C.svg?style=for-the-badge&logo=WebGPU&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="25" alt="JavaScript logo"  />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" alt="Node JS logo"  />
+  <img src="https://img.shields.io/badge/ChartGPU Creator-darkblue?style=for-the-badge&logo=github&logoColor=black" height="25" 
+  alt="Chart GPU logo/>
 </div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/huntergemmer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=i&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/huntergemmer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=@hgemmer&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+   <a href="https://www.reddit.com/user/SuccessfulOutside277/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25" alt="reddit logo"  />
   </a>
   <a href="https://discordapp.com/users/468502447594274816" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
