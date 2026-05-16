@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=i&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/huntergemmer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@hgemmer&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=@huntergemmer&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
    <a href="https://www.reddit.com/user/SuccessfulOutside277/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25" alt="reddit logo"  />
