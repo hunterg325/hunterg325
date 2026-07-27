@@ -1,5 +1,5 @@
 
-<h2 align="center" style="margin-bottom:10px;">Fullstack Engineer. WebGPU</h2>
+<h2 align="center" style="margin-bottom:10px;">Fullstack Engineer</h2>
 
 ###
 
